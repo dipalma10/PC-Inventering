@@ -8,7 +8,7 @@ Log files to 'C:\windows\logs\programs'
 CSV stored at 'C:\Windows\Temp\PowerShell-PC-Inventory\InventoryOutput'
 
 Get repository: 
-git clone git@github.com:dipalma10/PC-Inventering.git
+git clone https://github.com/dipalma10/PC-Inventering.git
 
 Run 'Create-Task-Schedule.ps1' powershell script
 Log off -> log on
