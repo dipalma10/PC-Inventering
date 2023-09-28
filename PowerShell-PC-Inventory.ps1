@@ -8,8 +8,7 @@ param(
 # Last updated: Sep-4-2023
 #
 # Modified by Mikael Palmqvist, Contribit AB, 2023-09-28
-#
-# More GPU, and CPU Speed
+# -> Added more GPU, and CPU Speed
 #
 # This PowerShell script will collect the Date of inventory, IP and MAC address, serial number, model, CPU, RAM, total storage size, GPU(s), OS, OS build, logged in user, and the attached monitor(s) of a computer.
 # After it collects that information, it is outputted to a CSV file. It will first check the CSV file (if it exists) to see if the hostname already exists in the file. 
