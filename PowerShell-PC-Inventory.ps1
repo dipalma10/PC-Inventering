@@ -8,6 +8,7 @@ param(
 # Last updated: Sep-4-2023
 #
 # Modified by Mikael Palmqvist, Contribit AB, 2023-09-28
+# Version 1.3
 # -> Added more GPU, and CPU Speed
 #
 # This PowerShell script will collect the Date of inventory, IP and MAC address, serial number, model, CPU, RAM, total storage size, GPU(s), OS, OS build, logged in user, and the attached monitor(s) of a computer.
