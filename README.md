@@ -1,8 +1,15 @@
 # PC-Inventering
-Powershell PC inventory
-This script have bben modified to fix my goals.
 
-Installation: 
+This script from -> https://github.com/sbirdsill/PowerShell-PC-Inventory has been modified to my needs.
+
+Info:
+Log files to 'C:\windows\logs\programs'
+
+CSV stored at 'C:\Windows\Temp\PowerShell-PC-Inventory\InventoryOutput'
+
+Get repository: 
 git clone git@github.com:dipalma10/PC-Inventering.git
 
-Run Create Task Schedule powershell script
+Run 'Create-Task-Schedule.ps1' powershell script
+Log off -> log on
+
